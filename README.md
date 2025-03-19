@@ -31,12 +31,17 @@
 
 - Get NFT Details
   ```
-  Show me the details of NFT 0000000095680690F8F2D01B202320A2C60425B757588880DFE0A1700057B2D5
+  Show me the details of NFT {tokenId}
   ```
     Additional options:
   - Count
   - Date (Start and End)
   - NftId
+
+- Burn NFT
+  ```
+  Burn NFT with ID {tokenId}"
+  ```
 
 
 
